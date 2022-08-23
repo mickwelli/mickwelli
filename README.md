@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mickwelli
-- 👀 I’m interested in agricultural modeling and remote sensing
+- 👀 I’m interested in agricultural modelling and remote sensing
 - 📫 How to reach me michael.wellington@anu.edu.au
 
 <!---
